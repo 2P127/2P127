@@ -7,7 +7,7 @@
 class Hayu5412 {
     static function main() {
         var profile = {
-            name: "Hayu5412",
+            name: "2P",
             age: 18,
             birthday: new Date(2008, 10, 1),
             school: "GSMHS",
