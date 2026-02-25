@@ -4,7 +4,7 @@
 ## About
 
 ```haxe
-class Hayu5412 {
+class 2P {
     static function main() {
         var profile = {
             name: "2P",
