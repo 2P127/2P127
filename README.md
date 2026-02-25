@@ -4,7 +4,7 @@
 ## About
 
 ```haxe
-class 2P {
+class TwoP {
     static function main() {
         var profile = {
             name: "2P",
