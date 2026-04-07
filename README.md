@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <!-- <div align="center"> -->
 
-## About
+<!-- ## About
 
 ```haxe
 class TwoP {
@@ -75,3 +75,4 @@ class TwoP {
 
 ## My WakaTime
 ![My WakaTime :3](https://github-readme-stats.vercel.app/api/wakatime?username=haryu5412)
+--!>
