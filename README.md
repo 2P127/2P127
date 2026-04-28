@@ -70,8 +70,8 @@ class TwoP {
 
 ## Github Stats
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=haryu5412dev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryu5412dev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=2p127&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2p127&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 ## My WakaTime
 ![My WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=haryu5412)
